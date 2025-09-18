@@ -78,3 +78,10 @@ layout: default
 
 　　希望这份指南能帮你搞定网络，更希望你能享受在圭亚那的每一刻。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Guyana SIM 卡购买与激活指南](https://faciylike.github.io/guyana-sim-guides)
